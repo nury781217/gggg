@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.d("test1234", "aaaa")
+        val a1 = 100
     }
 }
